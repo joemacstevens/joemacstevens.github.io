@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobs on My Career So Far</title>
+    <link>/jobs/</link>
+    <description>Recent content in Jobs on My Career So Far</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Oct 2018 14:40:55 -0400</lastBuildDate>
+    
+	<atom:link href="/jobs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brimar Industries</title>
+      <link>/jobs/brimar/</link>
+      <pubDate>Fri, 12 Oct 2018 14:40:55 -0400</pubDate>
+      
+      <guid>/jobs/brimar/</guid>
+      <description>Led a small team of Developers and Designers to completely redesign and rebuild company&amp;rsquo;s user interfaces for two online storefronts Safetysign.com and Pipemarker.com. Collaborated extremely close with the CEO and Operations Director to develop requirements for redesign, also met with stakeholders biweekly to access progress, demo functionality and adjust implementation as needed.
+Product Information Pages
+ Developed of Product Information Pages, Category Landing Pages and Search Result Landing pages by architecting a approach that included consuming, parsing and sanitizing a JSON API, inserting this sanitized product data into these pages quickly, as well as keeping calls to the server to a minimum as the customer choose different options of our heavily customizable products.</description>
+    </item>
+    
+    <item>
+      <title>Condé Nast - Brides.com</title>
+      <link>/jobs/conde-nast/</link>
+      <pubDate>Fri, 12 Oct 2018 14:40:55 -0400</pubDate>
+      
+      <guid>/jobs/conde-nast/</guid>
+      <description> Developed over 100 landing pages for weekly sweepstakes on Brides.com.  </description>
+    </item>
+    
+    <item>
+      <title>Heartbeat Ideas</title>
+      <link>/jobs/heartbeat/</link>
+      <pubDate>Fri, 12 Oct 2018 14:40:55 -0400</pubDate>
+      
+      <guid>/jobs/heartbeat/</guid>
+      <description>I got the opportunity to work on a multitude of different exciting projects at Heartbeat, to include marketing landing pages, a ASP MVC based CRM tool and a progressive web app for helping people manage their Crohn&amp;rsquo;s disease. Of the many projects I worked on here are the ones I enjoyed the most and had the most impact on
+Face Your Risk -&amp;gt;
+ Lead the development of a scrolling based animated module on marketing landing page.</description>
+    </item>
+    
+    <item>
+      <title>Hertz</title>
+      <link>/jobs/hertz/</link>
+      <pubDate>Fri, 12 Oct 2018 14:40:55 -0400</pubDate>
+      
+      <guid>/jobs/hertz/</guid>
+      <description> Brought on for a project to upgrade mark up throughout Hertz.com international sites from CFML to standards compliant HTML. Worked with teams based throughout Europe and Asia.  </description>
+    </item>
+    
+    <item>
+      <title>Us Navy</title>
+      <link>/jobs/us-navy/</link>
+      <pubDate>Fri, 12 Oct 2018 14:40:55 -0400</pubDate>
+      
+      <guid>/jobs/us-navy/</guid>
+      <description>My job in the US Navy was as a Information Systems Technician which was responsible for setting up and maintaining classified communications between our command and others.
+ I also designed,developed and maintained the first official websites for two commands; the USS Fort McHenry and the USS O&amp;rsquo;Brien as well as developed the internal Intranet for Military Sealift Command in addition to my regular duties  </description>
+    </item>
+    
+    <item>
+      <title>West Elm</title>
+      <link>/jobs/westelm/</link>
+      <pubDate>Fri, 12 Oct 2018 14:40:55 -0400</pubDate>
+      
+      <guid>/jobs/westelm/</guid>
+      <description>I worked on Williams Somona&amp;rsquo;s family of brand websites, a huge enterprise application. Throughout my time here was able to contribute to the development of a multi of features including the Store Locator section of westelm.com utilizing the brand new CSS Grid specification for responsiveness across different platforms. Worked with a custom component library based on the upcoming Web Component specification.
+In addition I was a very activecontributor on the following;</description>
+    </item>
+    
+  </channel>
+</rss>

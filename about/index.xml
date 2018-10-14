@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My Career So Far</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on My Career So Far</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Oct 2018 16:52:27 -0400</lastBuildDate>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Fri, 12 Oct 2018 16:52:27 -0400</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>I am an experienced Full Stack Developer with over 10 years of experience developing compelling User Interfaces across different industries including enterprise level e-commerce at a large retailer, sites and apps at a large creative agency specializing in pharmaceutical advertising, completely redeveloping the store fronts for a small e-commerce site, and developing an enormous amount of landing pages for one of the largest publishers in the world.</description>
+    </item>
+    
+  </channel>
+</rss>
